@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXT-X-STREAM-INF:BANDWIDTH=5017100,CODECS="avc1.100.40,mp4a.40.2",RESOLUTION=1920x1080,AUDIO="aac",SUBTITLES="subt"
+https://nogeovod-fy.atresmedia.com/vsg/_definst_/assets16/2020/10/05/B7849142-BC5E-47CD-8F33-142ED358362B/hls.smil/playlist.m3u8
