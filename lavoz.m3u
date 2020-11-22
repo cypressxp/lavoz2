@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="antena3.es" tvg-name="ES: Antena3" tvg-logo="[" group-title="La VOZ",ES: La Voz Cap11
-https://nogeovod-fy.atresmedia.com/vsg/_definst_/assets2/2020/11/18/3980F46B-522C-4867-97C4-567B750A00CE/hls.smil/playlist.m3u8 -c copy -bsf:a aac_adtstoasc "la-voz-la-voz-2020-p11-fase-final.mp4"
+https://nogeovod-fy.atresmedia.com/vsg/_definst_/assets2/2020/11/18/3980F46B-522C-4867-97C4-567B750A00CE/hls.smil/playlist.m3u8
