@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="antena3.es" tvg-name="ES: Antena3" tvg-logo="[" group-title="La VOZ",ES: La Voz Kids Cap01
+#EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://graph.facebook.com/antena3/picture?width=200&height=200" group-title="" tvg-name="Antena 3",Antena 3
 https://nogeovod-fy.atresmedia.com/vsg/_definst_/assets12/2021/04/30/F3BC2E73-CF22-45A1-94B9-6C646309EAF9/hls.smil/playlist.m3u8
+
